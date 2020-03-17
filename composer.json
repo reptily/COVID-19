@@ -1,0 +1,17 @@
+{
+    "name": "reptily/covid-19",
+    "description": "covid-19 php example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "openWEB",
+            "email": "reptily@go2ride.ru"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+            "COVID\\":"virus"
+        }
+    }
+}
